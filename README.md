@@ -1,7 +1,8 @@
 # Cancer-Subtype-Classification-by-ML 🧬🔬
 Machine learning–based cancer subtype classification using RNA-seq expression data from the UCI TCGA Pan-Cancer (HiSeq) dataset, with PCA-driven dimensionality reduction.
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psj1996-CR7/Cancer-Subtype-Classification-by-ML/blob/main/Cancer_Subtype_ML_Pipeline.ipynb)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## 🌟 Project Overview
 This project addresses a critical challenge in oncology: **identifying the tissue of origin for metastatic cancers.** While many cancers look similar under a microscope, their genetic "instructions" (transcriptome) remain unique to the organ where they started. 
